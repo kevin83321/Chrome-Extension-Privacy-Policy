@@ -1,0 +1,13 @@
+Privacy Policy for Lazy Bookmark
+
+Lazy Bookmark does not collect, store, transmit, or share any personal data.
+
+Permissions used:
+1. "bookmarks" – This permission is required to read the user's existing bookmarks for the purpose of displaying search results inside the extension. No bookmark data is sent outside the user's browser.
+2. "storage" – This permission is used only to store local usage frequency data to improve search ranking. This data stays entirely on the user's device and is never transmitted elsewhere.
+
+Lazy Bookmark does not use analytics, tracking, advertising, cookies, user profiling, or any third-party data services.
+
+No personal information is collected, shared, or processed.
+
+If you have questions about this privacy policy, you may contact the developer through the email listed in the Chrome Web Store developer profile.
