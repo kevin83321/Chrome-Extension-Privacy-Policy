@@ -1,0 +1,106 @@
+Privacy Policy for Quick2TV (Chrome Extension)
+Last Updated: 2025-02-12
+
+------------------------------------------------
+1. Overview
+
+Quick2TV is a lightweight Chrome extension designed to open TradingView charts quickly and provide helpful search suggestions.
+This extension is built with user privacy as the highest priority.
+Quick2TV does not collect, store, transmit, or share any personal data.
+------------------------------------------------
+2. Data Collection
+
+Quick2TV does NOT collect any personal information such as:
+- Names
+- Email addresses
+- Browsing history
+- IP addresses
+- Trading activity
+- Financial information
+- Device identifiers
+- Cookies
+
+The extension does not include analytics, advertisements, or trackers.
+------------------------------------------------
+3. Local Storage Usage
+
+Quick2TV uses Chrome Storage only to store user preferences locally, including:
+
+Dark mode preference
+
+Search history (stock symbols)
+
+These values:
+
+Stay only on the user's local browser
+
+Are not sent to any server
+
+Are fully under user control (can be cleared anytime via Chrome)
+
+Quick2TV does not access, read, or modify any other browser data.
+------------------------------------------------
+4. Permissions Explanation
+
+The extension requests minimal permissions:
+
+tabs
+
+Used only to open TradingView charts in a new tab.
+
+storage
+
+Used only to locally save UI preferences and search history.
+
+Quick2TV does not use these permissions to monitor, collect, or track any browsing activity.
+------------------------------------------------
+5. Third-Party Services
+
+Quick2TV loads TradingView chart pages when opening a symbol.
+This is equivalent to a user manually visiting:
+
+https://www.tradingview.com/chart/
+
+Quick2TV does not inject scripts into trading websites nor send user data to TradingView.
+
+Please refer to TradingView’s own privacy policy regarding their website:
+https://www.tradingview.com/privacy-policy/
+------------------------------------------------
+6. Data Sharing
+
+Quick2TV does NOT share data with:
+
+Third parties
+
+Advertisers
+
+Analytics providers
+
+External servers
+
+The developer
+------------------------------------------------
+7. User Control
+
+Users may clear all Quick2TV-related stored data anytime via:
+
+Chrome Extensions → Quick2TV → "Clear data"
+
+Chrome Settings → Privacy → Clear browsing data → "Hosted app data"
+
+No other actions are required.
+------------------------------------------------
+8. Children’s Privacy
+
+Quick2TV does not target or collect data from children under 13 years of age.
+------------------------------------------------
+9. Policy Updates
+
+Any future updates to this policy will be published publicly, and the version date will be updated.
+------------------------------------------------
+10. Contact
+
+If you have any privacy-related questions, please contact the developer:
+
+Developer: Kevin Cheng
+Email: (your preferred email, or I can generate a neutral one for extensions)
